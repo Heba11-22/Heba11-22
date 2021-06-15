@@ -1,8 +1,13 @@
-### Hi there 👋
+## About Me 👩🏻‍💻
 I am a mission-driven full-stack software engineer with experience in Python, JavaScript, React, and Redux.
 As a web developer, I enjoy using my obsessive attention to detail, helping others, and transforming a vision into a reality to make things that make a difference.
 When I am not coding, I like to travel, cook, explore new things, and spend time with my wonderful family.
+
 If you think we can co-create something that can make the world better, let's talk!
+#### [*LinkedIn*](https://www.linkedin.com/in/heba-e-3091261b5/)
+#### [*Portfolio*](https://heba11-22.github.io/)
+#### [*hkasaby1@gmail.com*](hkasaby1@gmail.com)
+
 
 
 <!--
